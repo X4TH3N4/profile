@@ -30,7 +30,7 @@
 
 🌱 I’m currently learning **abcd**
 
-❓ Ask me about anything related to [abc](abc)
+❓ Ask me about anything related to [discord.js](https://discord.js.org)
 
 ⚡ Fun fact: I use tabs over spaces
 
