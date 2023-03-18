@@ -25,14 +25,11 @@
 
 ## 💫 About Me:
 
-
-🔭 I’m currently working on [a](x)
-
-🌱 I’m currently learning **abcd**
+🌱 I’m currently learning **php**
 
 ❓ Ask me about anything related to [discord.js](https://discord.js.org)
 
-⚡ Fun fact: I use tabs over spaces
+⚡ Fun fact: I use the mouse a lot when coding.
 
 ## 🌐 Socials:
 
