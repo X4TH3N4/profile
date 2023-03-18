@@ -73,4 +73,4 @@
 
 ___
 </div>
-<div align="center" style="text-decoration:none; color: darkgrey; cursor: default;"><a href="https://github.com/X4TH3N4" style="text-decoration:none; color: darkgrey; cursor: default;" target="_blank">Generated with 💜 by XATHENA</a></div>
+<div align="center" style="text-decoration:none; color: darkgrey; cursor: default;"><a href="https://github.com/X4TH3N4" style="text-decoration:none; color: darkgrey; cursor: default;" target="_blank">Made with 💜 by XATHENA</a></div>
