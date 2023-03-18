@@ -1,4 +1,4 @@
-<div align="center" style="align: center; text-decoration:none; color: lightgrey; cursor: default; pointer-events:none; user-drag: none;
+<div draggable="false" (dragstart)="false;" align="center" style="align: center; text-decoration:none; color: lightgrey; cursor: default; pointer-events:none; user-drag: none;
     -webkit-user-drag: none;
     user-select: none;
     -moz-user-select: none;
