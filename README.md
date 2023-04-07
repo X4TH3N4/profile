@@ -28,7 +28,7 @@
 
 ❓ Ask me about anything related to [discord.js](https://discord.js.org)
 
-⚡ Fun fact: I use the mouse a lot when coding.
+⚡ Fun fact: I use mouse a lot when coding.
 
 ## 🌐 Socials:
 
