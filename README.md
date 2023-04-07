@@ -6,7 +6,7 @@
     -ms-user-select: none;">
 <h2 align="center">Hey 👋, I'm XATHENA</h2>
 
-<h3 align="center">A passionate front-end developer from Turkey
+<h3 align="center">A passionate front-end developer
 
 ## Glad to see you here!
 
