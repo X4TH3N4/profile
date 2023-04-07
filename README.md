@@ -32,26 +32,66 @@
 
 ## 🌐 Socials:
 
-<div align="center">
-<a href="https://github.com/x4th3n4" target="_blank">
+<div align="center" style="align: center; text-decoration:none; color: lightgrey; cursor: default; pointer-events:none; user-drag: none;
+    -webkit-user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;">
+<a href="https://github.com/x4th3n4" target="_blank" style="align: center; text-decoration:none; color: lightgrey; cursor: default; pointer-events:none; user-drag: none;
+    -webkit-user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/xathenatw" target="_blank">
+<a href="https://twitter.com/xathenatw" target="_blank" style="align: center; text-decoration:none; color: lightgrey; cursor: default; pointer-events:none; user-drag: none;
+    -webkit-user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/yildizbrk" target="_blank">
+<a href="https://linkedin.com/in/yildizbrk" target="_blank" style="align: center; text-decoration:none; color: lightgrey; cursor: default; pointer-events:none; user-drag: none;
+    -webkit-user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/xathenagram" target="_blank">
+<a href="https://instagram.com/xathenagram" target="_blank" style="align: center; text-decoration:none; color: lightgrey; cursor: default; pointer-events:none; user-drag: none;
+    -webkit-user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://gitlab.com/berkxathena" target="_blank">
+<a href="https://gitlab.com/berkxathena" target="_blank" style="align: center; text-decoration:none; color: lightgrey; cursor: default; pointer-events:none; user-drag: none;
+    -webkit-user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a> 
-<a href="https://twitch.tv/xathena_" target="_blank">
+<a href="https://twitch.tv/xathena_" target="_blank" style="align: center; text-decoration:none; color: lightgrey; cursor: default; pointer-events:none; user-drag: none;
+    -webkit-user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;">
 <img src=https://img.shields.io/badge/Twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white alt=twitch style="margin-bottom: 5px;" />
 </a>
-<a href="https://repl.it/@x4th3n4" target="_blank">
+<a href="https://repl.it/@x4th3n4" target="_blank" style="align: center; text-decoration:none; color: lightgrey; cursor: default; pointer-events:none; user-drag: none;
+    -webkit-user-drag: none;
+    user-select: none;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;">
 <img src=https://img.shields.io/badge/repl-it.svg?style=for-the-badge&logo=replit&logoColor=white alt=twitch style="margin-bottom: 5px;" />
 </a>
 </div>
