@@ -26,7 +26,7 @@
 
 🌱 I’m currently learning **php**
 
-❓ Ask me about anything related to [discord.js](https://discord.js.org)
+❓ Ask me about anything related to [discord.js](https://discordjs.dev)
 
 ⚡ Fun fact: I use mouse a lot when coding.
 
