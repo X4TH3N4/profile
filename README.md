@@ -45,7 +45,7 @@
 <a href="https://instagram.com/xathenagram" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://gitlab.com/xathena_" target="_blank">
+<a href="https://gitlab.com/devxathena" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a> 
 <a href="https://twitch.tv/xathena_" target="_blank">
