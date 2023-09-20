@@ -24,7 +24,7 @@
 
 ## 💫 About Me:
 
-🌱 I’m currently learning **php**
+🌱 I’m currently learning **laravel**
 
 ❓ Ask me about anything related to [discord.js](https://discordjs.dev)
 
