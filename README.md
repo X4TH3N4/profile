@@ -45,7 +45,7 @@ I believe that we must always continue to learn and develop to be successful. Th
 
 ## 🌐 Socials:
 
-<div align="center">
+ <div align="center">
         <a href="https://github.com/x4th3n4" target="_blank">
             <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white
                  alt=github style="margin-bottom: 5px;"/>
@@ -74,9 +74,9 @@ I believe that we must always continue to learn and develop to be successful. Th
             <img src=https://img.shields.io/badge/repl-it.svg?style=for-the-badge&logo=replit&logoColor=white
                  alt=twitch style="margin-bottom: 5px;"/>
         </a>
-</div>
+ </div>
 
-    ## **Tech Stack:**
+## Tech Stack:
 
 ![GIT](https://img.shields.io/badge/git-scm.svg?style=for-the-badge&logo=git&logoColor=white)
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
