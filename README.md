@@ -11,7 +11,7 @@
 ##    Glad to see you here!
 
 <div style="color: darkgray">
-##### I am a web developer who lives in Istanbul, who believes the power of software combined with creativity
+#####I am a web developer who lives in Istanbul, who believes the power of software combined with creativity
             and innovation thanks to my passion for the software world. I have approximately 5 years of experience
             with Node.js and JavaScript and have gained 2 years of experience in Web Development, with a continued
             desire to acquire more experience. During this time, I have developed myself and progressed in my career
