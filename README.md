@@ -11,26 +11,26 @@
 ##    Glad to see you here!
 
 <div style="color: darkgray">
-    <h5>I am a web developer who lives in Istanbul, who believes the power of software combined with creativity
+##### I am a web developer who lives in Istanbul, who believes the power of software combined with creativity
             and innovation thanks to my passion for the software world. I have approximately 5 years of experience
             with Node.js and JavaScript and have gained 2 years of experience in Web Development, with a continued
             desire to acquire more experience. During this time, I have developed myself and progressed in my career
             by working on various different projects.</h5>
 
- <h5>I have a philosophy that "Software is not just a job, it's a way of life. Push the boundaries and
+##### I have a philosophy that "Software is not just a job, it's a way of life. Push the boundaries and
             make anything possible." I am always open to learning and improving, and I take the time to keep up
-            with the latest developments in software technology.</h5>
+            with the latest developments in software technology.
 
- <h5>I believe that software is present in every aspect of life. Therefore, I can use my software
+##### I believe that software is present in every aspect of life. Therefore, I can use my software
             development skills in different areas of life. Additionally, I possess skills in understanding
-            customer needs, project management, communication, and teamwork.</h5>
+            customer needs, project management, communication, and teamwork.
 
-<h5>Through my experiences and passion, I aim to progress in my career and build a professional
-            career by specializing in the software industry.</h5>
+##### Through my experiences and passion, I aim to progress in my career and build a professional
+            career by specializing in the software industry.
 
-<h5>I believe that we must always continue to learn and develop to be successful. Therefore,
+##### I believe that we must always continue to learn and develop to be successful. Therefore,
             I am dedicated to constantly improving and learning with my passion to become a
-            successful developer in the future.</h5>
+            successful developer in the future.
     </div>
 
 ## 💫 About Me:
