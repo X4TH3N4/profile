@@ -4,9 +4,9 @@
     -moz-user-select: none;
     -webkit-user-select: none;
     -ms-user-select: none;">
- <h2 align="center">Hey 👋, I'm XATHENA</h2>
+# Hey 👋, I'm XATHENA
 
-<h2 align="center">A passionate Web Developer</h2>
+### A passionate Web Developer
 
 ## Glad to see you here!
 
