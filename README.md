@@ -4,11 +4,11 @@
     -moz-user-select: none;
     -webkit-user-select: none;
     -ms-user-select: none;">
-## Hey 👋, I'm XATHENA
+##    Hey 👋, I'm XATHENA
 
-### A passionate Web Developer
+###    A passionate Web Developer
 
-## Glad to see you here!
+##    Glad to see you here!
 
 <div style="color: darkgray">
     <h5>I am a web developer who lives in Istanbul, who believes the power of software combined with creativity
