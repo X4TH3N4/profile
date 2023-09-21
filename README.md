@@ -76,7 +76,7 @@ I believe that we must always continue to learn and develop to be successful. Th
         </a>
 </div>
 
-**Tech Stack:**
+## **Tech Stack:**
 
 ![GIT](https://img.shields.io/badge/git-scm.svg?style=for-the-badge&logo=git&logoColor=white)
     ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
