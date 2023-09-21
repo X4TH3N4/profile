@@ -107,7 +107,7 @@ I believe that we must always continue to learn and develop to be successful. Th
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-    ___
+___
 </div>
 <div align="center" style="text-decoration:none; color: darkgrey; cursor: default;"><a href="https://github.com/X4TH3N4"
                                                                                        style="text-decoration:none; color: darkgrey; cursor: default;"
