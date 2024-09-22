@@ -14,7 +14,7 @@
 <p>  
     I am a web developer who lives in Istanbul, who believes the power of software combined with creativity
              and innovation thanks to my passion for the software world. I have approximately 5 years of experience
-             with Node.js and JavaScript and have gained 2 years of experience in Web Development, with a continued
+             with Node.js and JavaScript and have gained 2 years of experience with both PHP and Laravel, with a continued
             desire to acquire more experience. During this time, I have developed myself and progressed in my career
            by working on various different projects.
     
@@ -37,9 +37,9 @@ I believe that we must always continue to learn and develop to be successful. Th
 
 ## 💫 About Me:
 
-🌱 I’m currently learning **laravel**
+🌱 I’m currently learning **C++**
 
-❓ Ask me about anything related to [discord.js](https://discordjs.dev)
+❓ Ask me about anything related to [discord.js](https://discordjs.dev) and [laravel](https://laravel.com)
 
 ⚡ Fun fact: I use mouse a lot when coding.
 
@@ -68,10 +68,6 @@ I believe that we must always continue to learn and develop to be successful. Th
         </a>
         <a href="https://twitch.tv/xathena_" target="_blank">
             <img src=https://img.shields.io/badge/Twitch-%239146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white
-                 alt=twitch style="margin-bottom: 5px;"/>
-        </a>
-        <a href="https://repl.it/@x4th3n4" target="_blank">
-            <img src=https://img.shields.io/badge/repl-it.svg?style=for-the-badge&logo=replit&logoColor=white
                  alt=twitch style="margin-bottom: 5px;"/>
         </a>
  </div>
