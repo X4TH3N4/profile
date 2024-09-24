@@ -1,5 +1,5 @@
 <div align="center">
-<h1>👋 Hey there, I'm Berk Yıldız (XATHENA)</h1>
+<h1>👋 Hey there, I'm Berk Yıldız</h1>
 <h3>🌐 Passionate Web Developer | Backend Specialist</h3>
 <p>🚀 Transforming ideas into reality with creativity and innovation!</p>
 </div>
