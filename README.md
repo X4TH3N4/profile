@@ -72,5 +72,5 @@ Feel free to reach out via email at [yildizbrk@outlook.com.tr](mailto:yildizbrk@
 ---
 
 <div align="center" style="color: darkgrey;">
-    Made with 💜 by Berk Yıldız (XATHENA)
+    Made with 💜 by Berk Yıldız
 </div>
