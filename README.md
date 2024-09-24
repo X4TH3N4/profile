@@ -32,6 +32,14 @@ I'm a dedicated web developer based in Istanbul, specializing in backend develop
 ![Git](https://img.shields.io/badge/git-scm.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-330F63.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
+## 🌟 Featured Projects
+- [laravel-discord-moderation](https://github.com/devxathena/laravel-discord-moderation) - A Laravel-based bot for managing Discord communities.
+- [laravel-tobacco](https://github.com/devxathena/laravel-tobacco) - A Laravel project focused on tobacco product management.
+- [laravel-elibrary](https://github.com/devxathena/laravel-elibrary) - An eLibrary system built with Laravel.
+- [moderation-bot](https://github.com/devxathena/moderation-bot) - A Node.js bot for server moderation.
+- [discord-register-bot](https://github.com/devxathena/discord-register-bot) - A registration bot for Discord servers.
+- [music-bot](https://github.com/devxathena/music-bot) - A Node.js music bot for Discord.
+
 ## 📈 GitHub Stats
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=devxathena&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
@@ -57,14 +65,6 @@ I'm a dedicated web developer based in Istanbul, specializing in backend develop
     <img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 </div>
-
-## 🌟 Featured Projects
-- [laravel-discord-moderation](https://github.com/devxathena/laravel-discord-moderation) - A Laravel-based bot for managing Discord communities.
-- [laravel-tobacco](https://github.com/devxathena/laravel-tobacco) - A Laravel project focused on tobacco product management.
-- [laravel-elibrary](https://github.com/devxathena/laravel-elibrary) - An eLibrary system built with Laravel.
-- [moderation-bot](https://github.com/devxathena/moderation-bot) - A Node.js bot for server moderation.
-- [discord-register-bot](https://github.com/devxathena/discord-register-bot) - A registration bot for Discord servers.
-- [music-bot](https://github.com/devxathena/music-bot) - A Node.js music bot for Discord.
 
 ## 📫 Contact Me
 Feel free to reach out via email at [yildizbrk@outlook.com.tr](mailto:yildizbrk@outlook.com.tr) for any inquiries or collaborations!
