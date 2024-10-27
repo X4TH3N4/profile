@@ -33,6 +33,7 @@ I'm a dedicated web developer based in Istanbul, specializing in backend develop
 ![GitLab](https://img.shields.io/badge/gitlab-330F63.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ## 🌟 Featured Projects
+- [WinOptimizer](https://github.com/devxathena/WinOptimizer) - A Python tool for downloading optimization scripts from GitHub and Sysinternals to improve Windows performance.
 - [laravel-discord-moderation](https://github.com/devxathena/laravel-discord-moderation) - A Laravel-based bot for managing Discord communities.
 - [laravel-tobacco](https://github.com/devxathena/laravel-tobacco) - A Laravel project focused on tobacco product management.
 - [laravel-elibrary](https://github.com/devxathena/laravel-elibrary) - An eLibrary system built with Laravel.
